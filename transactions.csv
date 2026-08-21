@@ -1,0 +1,13 @@
+transaction_id,customer,amount,status,failure_reason,payment_method,previous_successful_payments,retry_count
+TXN001,Rahul Sharma,4999,Failed,Card Declined,Credit Card,8,0
+TXN002,Priya Mehta,2499,Failed,Bank Timeout,UPI,5,1
+TXN003,Arjun Patel,8999,Failed,Insufficient Funds,Debit Card,12,0
+TXN004,Ananya Singh,1499,Failed,Network Error,UPI,7,1
+TXN005,Vikram Rao,12999,Failed,Card Declined,Credit Card,15,0
+TXN006,Neha Joshi,3999,Successful,None,UPI,9,0
+TXN007,Aditya Shah,6999,Failed,Insufficient Funds,Debit Card,3,2
+TXN008,Sneha Kapoor,1999,Failed,Bank Timeout,UPI,11,0
+TXN009,Rohan Verma,15999,Failed,Card Declined,Credit Card,20,1
+TXN010,Isha Nair,2999,Failed,Network Error,UPI,6,0
+TXN011,Karan Malhotra,7999,Failed,Insufficient Funds,Debit Card,2,3
+TXN012,Meera Iyer,5499,Successful,None,Credit Card,14,0
